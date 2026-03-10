@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hola, soy Stefani Sánchez
 
-<!--
-**steff-360/Steff-360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Here are some ideas to get you started:
+🎓 📑 Estudiante de **Profesorado en Pedagogía y Tecnología de la Comunicación**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 👾 Aprendiendo **programación**
+
+🌱 🌼 Amante de la **naturaleza**
+
+---
+
+## 🙈 Sobre mí
+
+Soy una persona responsable y perseverante con muchas ganas de aprender.  
+Me interesa el mundo de la **tecnología, la programación y la educación**.
+
+También me llaman la atención temas como:
+
+🔎 misterios 
+🥊 Los deportes
+🧠 psicología  
+🏎️ fórmula 1  
+![gif](https://media.giphy.com/headers/f1/9lY5U4kCU2FT.gif)
+
+Me gusta hacer **deporte** y anteriormente practiqué **boxeo**, lo que me enseñó disciplina y constancia.
+
+---
+
+## 💡 Intereses
+
+💻 Programación  
+📚 Educación y tecnología  
+🌱 Naturaleza  
+🏎️ Fórmula 1  
+🔎 Misterios  
+🧠 Psicología  
+
+---
+
+## 🛠 Tecnologías que estoy aprendiendo
+![programming](https://i.pinimg.com/1200x/9c/05/15/9c0515a4f03a4b247277eed398189439.jpg)
+🐍 Python  
+🔧 Git  
+🐙 GitHub  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steff-360&show_icons=true&theme=radical)
+
+---
+
+✨ *Siempre aprendiendo algo nuevo*
