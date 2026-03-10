@@ -60,3 +60,7 @@ Me gusta hacer **deporte** y anteriormente practiqué **boxeo**, lo que me ense�
 ---
 
 ✨ *Siempre aprendiendo algo nuevo*
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
