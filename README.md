@@ -1,3 +1,5 @@
+![banner](https://www.canva.com/design/DAHDj7hjd_c/f9b-Mydfc3CQ5BQPQgOc0g/edit?utm_content=DAHDj7hjd_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # 👋 Hola, soy Stefani Sánchez
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RrZ2JycG9tMXAwMm9wb2RsdDFzbWkxeHlqd2IybmViM2h2aWEyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ny7UCd6JETnmE/giphy.gif)
@@ -51,6 +53,10 @@ Me gusta hacer **deporte** y anteriormente practiqué **boxeo**, lo que me ense�
 🔧 Git  
 🐙 GitHub  
 
+![Python](https://img.shields.io/badge/Python-blue)
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+
 ---
 
 ## 📊 GitHub Stats
@@ -61,6 +67,4 @@ Me gusta hacer **deporte** y anteriormente practiqué **boxeo**, lo que me ense�
 
 ✨ *Siempre aprendiendo algo nuevo*
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
+
