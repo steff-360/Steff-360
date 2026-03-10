@@ -1,15 +1,24 @@
-![banner](https://www.canva.com/design/DAHDj7hjd_c/f9b-Mydfc3CQ5BQPQgOc0g/edit?utm_content=DAHDj7hjd_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=Stefani%20Sánchez&fontSize=45&fontColor=ffffff)
+
+https://github.com/user-attachments/assets/e310b7ab-fc60-46d8-84cf-9496d0bf13b5
+
+
+# =============================
 
 # 👋 Hola, soy Stefani Sánchez
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RrZ2JycG9tMXAwMm9wb2RsdDFzbWkxeHlqd2IybmViM2h2aWEyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ny7UCd6JETnmE/giphy.gif)
 
-🎓 📑 Estudiante de **Profesorado en Pedagogía y Tecnología de la Comunicación**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&width=600&lines=Hola+soy+Stefani+S%C3%A1nchez;Estudiante+de+TIC;Aprendiendo+Programaci%C3%B3n;Amante+de+la+naturaleza)](https://git.io/typing-svg)
 
-💻 👾 Aprendiendo **programación**
+🎓 Estudiante de **Profesorado en Pedagogía y Tecnología de la Comunicación**
 
-🌱 🌼 Amante de la **naturaleza**
+💻 Aprendiendo **programación**
 
+🌱 Amante de la **naturaleza**
+
+![gif](https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTdyNGlmaGNvNno1cXZ1cnFnaGkzdDU5dGx1ZW96Y3hmcnM2d25zaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ua7vVw9awZKWwLSYpW/giphy.webp)
+
+# =============================
 ---
 
 ## 🙈 Sobre mí
@@ -28,10 +37,12 @@ También me llaman la atención temas como:
 
 🏎️ fórmula 1  
 
+Me gusta hacer **deporte** y anteriormente practiqué **boxeo**, lo que me enseñó disciplina y constancia.
+
+
 ![gif](https://media.giphy.com/headers/f1/9lY5U4kCU2FT.gif)
 ![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ0c2xyOHFjbDNkNmllempmbG5kbjNhcHF4ZjNobGg3dmtjOGZjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QexE1Wbt7ocJqJDg9K/giphy.webp)
 
-Me gusta hacer **deporte** y anteriormente practiqué **boxeo**, lo que me enseñó disciplina y constancia.
 
 ---
 
