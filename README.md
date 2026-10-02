@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=Stefani%20Sánchez&fontSize=45&fontColor=ffffff)
 
 https://github.com/user-attachments/assets/e310b7ab-fc60-46d8-84cf-9496d0bf13b5
 
@@ -7,8 +6,8 @@ https://github.com/user-attachments/assets/e310b7ab-fc60-46d8-84cf-9496d0bf13b5
 
 # 👋 Hola, soy Stefani Sánchez
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&width=600&lines=Hola+soy+Stefani+S%C3%A1nchez;Estudiante+de+TIC;Aprendiendo+Programaci%C3%B3n;Amante+de+la+naturaleza)](https://git.io/typing-svg)
+
 
 🎓 Estudiante de **Profesorado en Pedagogía y Tecnología de la Comunicación**
 
