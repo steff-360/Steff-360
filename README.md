@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=Stefani%20Sánchez&fontSize=45&fontColor=ffffff)
 
-https://github.com/user-attachments/assets/e310b7ab-fc60-46d8-84cf-9496d0bf13b5
 
 
 # =============================
