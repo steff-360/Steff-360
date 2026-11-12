@@ -9,11 +9,11 @@
 <br/>
 
 <p>
+  <a href="https://kjlpo.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio_En_Línea-kjlpo.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" />
+  </a>
   <a href="https://www.linkedin.com/in/stefani-s%C3%A1nchez-b35b65279" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Stefani_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/steff-360/Portafolio-Stefani-S-nchez" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio_Web-Ver_Proyecto-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
   <a href="mailto:steff.18random@gmail.com">
     <img src="https://img.shields.io/badge/Email-steff.18random%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -43,15 +43,15 @@ Enfoque multidisciplinario que combina rigor técnico en desarrollo de software,
 | **Backend & Pruebas** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-6E40C9?style=flat-square&logo=jest&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 | **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
 | **Automatización & Workflows** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2563EB?style=flat-square&logo=airtable&logoColor=white) |
-| **DevOps & Contenedores** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| **DevOps & Despliegue** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 
 ---
 
 ### Proyectos de Ingeniería y Repositorios
 
-| Proyecto | Descripción y Enfoque | Stack Tecnológico | Enlace |
+| Proyecto | Descripción y Enfoque | Stack Tecnológico | Enlaces |
 | :--- | :--- | :--- | :---: |
-| **Portafolio Web Profesional** | Sitio web interactivo diseñado para presentar proyectos de software, experiencia técnica y canales de contacto. | JavaScript, HTML5, CSS3 | [Ver Portafolio](https://github.com/steff-360/Portafolio-Stefani-S-nchez) |
+| **Portafolio Web Profesional** | Sitio web interactivo diseñado para presentar proyectos de software, experiencia técnica y canales de contacto. | JavaScript, HTML5, CSS3, Netlify | [Demo en Vivo](https://kjlpo.netlify.app/) • [Código](https://github.com/steff-360/Portafolio-Stefani-S-nchez) |
 | **Escape Room Educativo** | Plataforma gamificada interactiva con control de sesiones, roles administrativos, autenticación JWT y PostgreSQL. | Node.js, Express, PostgreSQL, JWT, CI/CD | [Código Fuente](https://github.com/steff-360/escape-room-programacion) |
 | **Sistema de Librería y Catálogo** | Arquitectura modular cliente-servidor para administración y catalogación estructurada de libros. | JavaScript, Node.js, Express | [Código Fuente](https://github.com/steff-360/libreria) |
 | **Infraestructura con Supabase y Docker** | Aprovisionamiento de backend local y configuración de base de datos relacional mediante contenedores Docker Compose. | Docker, Supabase, PostgreSQL | [Código Fuente](https://github.com/steff-360/STEFANI-supabse-local-alcore-config) |
@@ -65,8 +65,8 @@ Enfoque multidisciplinario que combina rigor técnico en desarrollo de software,
 
 | Canal | Destino | Enlace Directo |
 | :--- | :--- | :--- |
+| **Portafolio Web** | Despliegue en Vivo | [kjlpo.netlify.app](https://kjlpo.netlify.app/) |
 | **LinkedIn** | Perfil Profesional | [linkedin.com/in/stefani-sánchez-b35b65279](https://www.linkedin.com/in/stefani-s%C3%A1nchez-b35b65279) |
-| **Portafolio Web** | Repositorio y Demo del Portafolio | [github.com/steff-360/Portafolio-Stefani-S-nchez](https://github.com/steff-360/Portafolio-Stefani-S-nchez) |
 | **Correo Electrónico** | Contacto Directo | [steff.18random@gmail.com](mailto:steff.18random@gmail.com) |
 | **GitHub** | Repositorios y Código Abierto | [github.com/steff-360](https://github.com/steff-360) |
 
