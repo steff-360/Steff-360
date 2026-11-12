@@ -82,7 +82,7 @@ Enfoque multidisciplinario que combina rigor técnico en desarrollo de software,
 
 <p>
   <img src="https://img.shields.io/badge/Contribuciones_en_el_año-1%2C136%2B-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Contribuciones Anuales" />
-  <img src="https://img.shields.io/badge/Repositorios_Públicos-44-00C7B7?style=for-the-badge&logo=git&logoColor=white" alt="Repositorios Públicos" />
+  <img src="https://img.shields.io/badge/Repositorios_Curados-Públicos-00C7B7?style=for-the-badge&logo=git&logoColor=white" alt="Repositorios Curados" />
   <img src="https://img.shields.io/badge/Estado-Desarrollo_Activo-22C55E?style=for-the-badge&logo=codefactor&logoColor=white" alt="Desarrollo Activo" />
 </p>
 
