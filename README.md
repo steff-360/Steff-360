@@ -29,9 +29,13 @@
 
 ### Perfil Profesional
 
-Desarrolladora de software con formación integral en **Pedagogía y Tecnologías de la Información**. Experiencia en el desarrollo de soluciones web y móviles con **Flutter**, diseño de arquitecturas backend escalables, automatización de flujos de trabajo con **n8n**, y administración de bases de datos relacionales (**MySQL**, **PostgreSQL**) y NoSQL (**MongoDB**).
+<p align="justify">
+Desarrolladora de software con formación integral en <strong>Pedagogía y Tecnologías de la Información</strong>. Experiencia en el desarrollo de soluciones web y móviles con <strong>Flutter</strong>, diseño de arquitecturas backend escalables, automatización de flujos de trabajo con <strong>n8n</strong>, y administración de bases de datos relacionales (<strong>MySQL</strong>, <strong>PostgreSQL</strong>) y NoSQL (<strong>MongoDB</strong>).
+</p>
 
-Enfoque multidisciplinario que combina rigor técnico en desarrollo de software, pruebas unitarias e integración continua, con la optimización de procesos mediante automatizaciones y principios de tecnología educativa.
+<p align="justify">
+Enfoque multidisciplinario que combina rigor técnico en desarrollo de software, pruebas unitarias e integración continua, con la optimización de procesos mediante automatizaciones y principios pedagógicos de tecnología educativa.
+</p>
 
 ---
 
@@ -75,6 +79,19 @@ Enfoque multidisciplinario que combina rigor técnico en desarrollo de software,
 ### Métricas de Contribución y Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steff-360&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steff-360&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Principales" height="155" />
+
+<p>
+  <img src="https://img.shields.io/badge/Contribuciones_en_el_año-1%2C136%2B-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Contribuciones Anuales" />
+  <img src="https://img.shields.io/badge/Repositorios_Públicos-44-00C7B7?style=for-the-badge&logo=git&logoColor=white" alt="Repositorios Públicos" />
+  <img src="https://img.shields.io/badge/Estado-Desarrollo_Activo-22C55E?style=for-the-badge&logo=codefactor&logoColor=white" alt="Desarrollo Activo" />
+</p>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=steff-360&theme=radical&hide_border=true" alt="Racha de Contribuciones en GitHub" width="495" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=100&section=footer" width="100%" alt="Footer" />
+
 </div>
